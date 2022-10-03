@@ -1,0 +1,3 @@
+[submodule "Hillstate-Frontend"]
+	path = Hillstate-Frontend
+	url = https://github.com/pathces-gone/Hillstate-Frontend.git
